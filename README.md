@@ -6,6 +6,12 @@ IEM Explorer is a Python-based graphical tool developed to analyze electromigrat
 
 The software processes pulse-based resistance data (Rmin) and automatically detects the electromigration onset current (I_EM) using a combined derivative and plateau-based criterion.
 
+## Interface Preview
+
+The graphical interface allows interactive analysis of electromigration datasets, including real-time visualization of Rmin, derivative behavior, reverse-search logic, and candidate window selection.
+
+![IEM Explorer GUI](figures/gui_overview.png)
+
 ## Key Features
 
 * Graphical user interface (Tkinter-based)
