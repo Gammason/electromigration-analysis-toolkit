@@ -10,7 +10,8 @@ The software processes pulse-based resistance data (Rmin) and automatically dete
 
 The graphical interface allows interactive analysis of electromigration datasets, including real-time visualization of Rmin, derivative behavior, reverse-search logic, and candidate window selection.
 
-![IEM Explorer GUI](figures/gui_overview.png)
+![IEM Explorer GUI](figures/gui_controls.png)
+![IEM Explorer GUI](figures/gui_plots.png)
 
 ## Key Features
 
