@@ -1,15 +1,9 @@
-# =========================================================
-# I_EM Explorer v4.3
-# Based on user's last working version, with:
-# 1. mA as the default working/display unit
-# 2. Overlay or stacked multi-cycle views after Analyze All
-# 3. Separate pop-up interactive windows for each main graph
-# 4. Reverse-search plotted by reversed point index by default
-# 5. Equations window showing the actual mathematical criteria
-# 6. Clear color distinction between:
-#    - Gray  : noise reference region
-#    - Green : accepted candidate window
-# 7. Improved detailed explanation text
+IEM Explorer – Electromigration Analysis Tool
+
+Author: Elijah
+Description:
+GUI-based tool for analyzing electromigration experiments,
+including I_EM detection using derivative and plateau criteria.
 # =========================================================
 
 import os
