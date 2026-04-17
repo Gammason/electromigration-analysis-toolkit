@@ -63,6 +63,14 @@ Then:
 3. Set analysis parameters
 4. Click “Analyze”
 
+## Example Data
+
+A sample dataset is provided in:
+
+example_data/sample_em_data.csv
+
+You can use this file to test the tool and reproduce the analysis workflow.
+
 ## Example Output
 
 The tool generates multiple plots including:
